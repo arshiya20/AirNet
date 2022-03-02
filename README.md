@@ -1,5 +1,7 @@
 # AirNet
 AIRNET: Air Quality Level Predictor
+
+
 The objective of this project is to monitor the environment pollution using image processing
 technology. We will train the model by given data and test the model with a real time image.
 Image processing obtains the polluted parts of the image using edge detection and depth
